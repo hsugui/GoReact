@@ -24,3 +24,24 @@ Created by **Trevor Sawler**.
 - Frontend: React JS
 - Backend: Go (Golang)
 - REST API for data exchange
+
+## Screenshots
+![Homepage 1](/screenshots/goreact1.png)
+
+![Movies 1](/screenshots/goreact2.png)
+
+![Godfather 1](/screenshots/goreact3.png)
+
+![Genres 1](/screenshots/goreact4.png)
+
+![Login 1](/screenshots/goreact5.png)
+
+![Homepage 2](/screenshots/goreact6.png)
+
+![AddMovie 1](/screenshots/goreact7.png)
+
+![ManageCatalogue 1](/screenshots/goreact8.png)
+
+![EditMovie 1](/screenshots/goreact9.png)
+
+![GraphQL 1](/screenshots/goreact10.png)
